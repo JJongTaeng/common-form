@@ -1,6 +1,6 @@
-import Button from "./component/form/Button";
+import Button, { HTMLInteButtonElement } from "./component/form/Button";
 import Input from "./component/form/Input";
 
 export {
-  Button, Input
+  Button, Input, HTMLInteButtonElement
 }
