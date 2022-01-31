@@ -1,5 +1,5 @@
 {
-  "name": "common-form",
+  "name": "common-iform",
   "version": "1.0.0",
   "description": "Form library created using webcomponent",
   "main": "dist/cjs/index.js",
